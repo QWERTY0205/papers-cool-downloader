@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+downloads/
+outputs/
+tmp/
+*.zip
+*.csv
+*.json
+!requirements.txt
